@@ -52,3 +52,5 @@
 | [8. Уникальное число](./3/task08.go) | ![](./img/go.png) |
 | [9.Подходящая пара чисел](./3/task09.go) | ![](./img/go.png) |
 
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
+ 
