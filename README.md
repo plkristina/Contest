@@ -53,4 +53,23 @@
 | [9.Подходящая пара чисел](./3/task09.go) | ![](./img/go.png) |
 
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
- 
+| --- | :-: |
+| [1. Количество выполненных задач](./4/task01.go) | ![](./img/go.png) |
+| [2. Количество выполненных задач](./4/task02.cpp) |  ![](./img/cpp.png) |
+| [4. Титаник](./4/task04.go) | ![](./img/go.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [Get a cat](./5/task01.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./5/task02.cpp) |  ![](./img/cpp.png) |
+| [3. Класс. Комплексное число](./5/task03.cpp) | ![](./img/cpp.png) |
+| [4. Класс. Point](./5/task04.cpp) | ![](./img/cpp.png) |
+| [5. Класс. Большое целое число](./5/task05.cpp) | ![](./img/cpp.png) |
+| [6. Get a cat](./5/task06.go) | ![](./img/go.png) 
+| [7. Класс. Чайник](./5/task07.go) | ![](./img/go.png) |
+
+
+
+
+
+|
