@@ -70,9 +70,9 @@
 
 |[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
 | --- | :-: |
-| [1. Класс. Shape](./6/task01.go) | ![](./img/cpp.png) |
+| [1. Класс. Shape](./6/task01.cpp) | ![](./img/cpp.png) |
 | [2. Класс. Менеджер](./6/task02.cpp) |  ![](./img/cpp.png) |
 
 |[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
 | --- | :-: |
-| [1. Класс. RunnableСlock](./7/task01.go) | ![](./img/cpp.png) |
+| [1. Класс. RunnableСlock](./7/task01.cpp) | ![](./img/cpp.png) |
