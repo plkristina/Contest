@@ -76,3 +76,19 @@
 |[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
 | --- | :-: |
 | [1. Класс. RunnableСlock](./7/task01.cpp) | ![](./img/cpp.png) |
+
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
+| --- | :-: |
+| [1. Никаких секретов](./8/task01.cpp) | ![](./img/cpp.png) |
+| [2. Уроборос](./8/task02.cpp) | ![](./img/cpp.png) |
+| [3. 1D массив + функции](./8/task03.cpp) | ![](./img/cpp.png) |
+| [4. 2D массив + функции](./8/task04.cpp) | ![](./img/cpp.png) |
+| [5. IntSharedPointer](./8/task05.cpp) | ![](./img/cpp.png) |
+| [6. Класс Any](./8/task06.cpp) | ![](./img/cpp.png) |
+| [7. Адаптер функций](./8/task07.cpp) | ![](./img/cpp.png) |
+| [8. Стратегия печати](./8/task08.cpp) | ![](./img/cpp.png) |
+| [9. Композит](./8/task09.cpp) | ![](./img/cpp.png) |
+| [10. Какой тип](./8/task10.go) | ![](./img/go.png) |
+| [11. Класс. Матрица](./8/task11.go) | ![](./img/go.png) |
+| [12. Интерфейс. Стек](./8/task12.go) | ![](./img/go.png) |
+
